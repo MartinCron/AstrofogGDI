@@ -1,0 +1,11 @@
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\AstroMerge\AstroMerge\obj\Debug\AstroMerge.exe
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\AstroMerge\AstroMerge\obj\Debug\AstroMerge.pdb
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\AstroMerge\AstroMerge\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\AstroMerge\AstroMerge\obj\Debug\AstroMerge.Properties.Resources.resources
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\AstroMerge\AstroMerge\obj\Debug\ResGen.read.1.tlog
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\AstroMerge\AstroMerge\obj\Debug\ResGen.write.1.tlog
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\AstroMerge\AstroMerge\bin\Debug\AstroMerge.exe
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\AstroMerge\AstroMerge\bin\Debug\AstroMerge.pdb
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\AstroMerge\AstroMerge\bin\Debug\AstroMerge.Core.dll
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\AstroMerge\AstroMerge\bin\Debug\AstroMerge.Core.pdb
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\AstroMerge\AstroMerge\obj\Debug\AstrofogGDI.GameUI.resources

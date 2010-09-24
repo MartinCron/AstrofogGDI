@@ -1,0 +1,10 @@
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\AstroMerge\AstroMerge.Core\bin\Debug\AstroMerge.Core.dll
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\AstroMerge\AstroMerge.Core\bin\Debug\AstroMerge.Core.pdb
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\AstroMerge\AstroMerge.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\AstroMerge\AstroMerge.Core\obj\Debug\AstroMerge.Core.dll
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\AstroMerge\AstroMerge.Core\obj\Debug\AstroMerge.Core.pdb
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\AstrofogGDI\AstrofogGDI.Core\bin\Debug\AstroMerge.Core.dll
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\AstrofogGDI\AstrofogGDI.Core\bin\Debug\AstroMerge.Core.pdb
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\AstrofogGDI\AstrofogGDI.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\AstrofogGDI\AstrofogGDI.Core\obj\Debug\AstroMerge.Core.dll
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\AstrofogGDI\AstrofogGDI.Core\obj\Debug\AstroMerge.Core.pdb
