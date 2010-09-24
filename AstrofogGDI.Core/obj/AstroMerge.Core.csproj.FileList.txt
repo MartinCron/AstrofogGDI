@@ -1,5 +1,0 @@
-bin\Debug\AstroMerge.Core.dll
-bin\Debug\AstroMerge.Core.pdb
-obj\Debug\ResolveAssemblyReference.cache
-obj\Debug\AstroMerge.Core.dll
-obj\Debug\AstroMerge.Core.pdb
